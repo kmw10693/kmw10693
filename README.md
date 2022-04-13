@@ -1,8 +1,24 @@
-### Hi there 👋 <br/>
-### 멈추지 않고 꾸준히 나아가는 예비 백엔드 개발자 김민우입니다. <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmw10693&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmw10693&show_icons=true&theme=default)<br/>
+
+## 멈추지 않고 꾸준히 나아가는 백엔드 개발자 김민우입니다. 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw10693)](https://solved.ac/kmw10693/)<br/>
+## 🌱 I’m currently learning ...
+
+- ✏ Main Language: JAVA / SpringBoot
+- ✏ Backend: Node.JS
+- ✏ RDMBS: MySQL
+- ✏ ORM: Spring Data JPA
+- ✏ Algorithm: C++ 
+
+
+##  🔭 I'm currently working on ...
+  - Konkuk Univ 21' SICT
+  - SolvedAC Gold 3 Level
+
+## 📫  How to reach me:
+  Please send me an e-mail.
+  📫 kmw106933@naver.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmw10693&show_icons=true&theme=default)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmw10693&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
