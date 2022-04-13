@@ -12,7 +12,7 @@
 - ✏ Algorithm: C++ 
 
 ## 🏫 Education
-  - 건국대학교 스마트ICT융합공학과 (2021. 03 ~)
+  - 건국대학교 스마트ICT융합공학과 21학번 (2021. 03 ~)
   
 ## 📚 Experience
   - MakeUs UMC 연합동아리 1기 (2021)
