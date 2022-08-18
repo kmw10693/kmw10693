@@ -23,24 +23,26 @@
 
 ## <h3 align="center">📚 Experience/Career 📚</h3>
 
-Konkuk Univ. SICT 21st ```(2021. 03 ~ )```
+- 🎓 Konkuk Univ. SICT 21st ```(2021. 03 ~ )```
 
-MakeUs UMC United Students Club 1st/2nd ```(2021. 06 ~ 2022. 08)```
+- 🚀 KATUSA Soldier ```(2022.05 ~ 2023.11)```
 
-J2KB Coding Study Club 6th ```(2022.01 ~ 2022.04)```
+- MakeUs UMC United Students Club 1st/2nd ```(2021. 06 ~ 2022. 08)```
 
-UNITHON 8TH Hackathon ```(2022.03)```
+- J2KB Coding Study Club 6th ```(2022.01 ~ 2022.04)```
 
-The SpartaCodingClub Supporters ```(2022.01 ~ 2022.03)```
+- UNITHON 8TH Hackathon ```(2022.03)```
 
-UPF 2022SS ```(2022.03 ~ 2022.07)```
+- The SpartaCodingClub Supporters ```(2022.01 ~ 2022.03)```
+
+- UPF 2022SS ```(2022.03 ~ 2022.07)```
 
 ## <h3 align="center">👋 Project 👋</h3>
-DevThink/Side Project ```(2022)```
+- DevThink/Side Project ```(2022)```
 
-MoaMoa/Side Project ```(2022)```
+- MoaMoa/Side Project ```(2022)```
 
-BANGU/Side Project ```(2022)```
+- BANGU/Side Project ```(2022)```
 
 ## 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw10693)](https://solved.ac/kmw10693/)<br/>
