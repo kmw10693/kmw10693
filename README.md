@@ -38,11 +38,11 @@
 - UPF 2022SS ```(2022.03 ~ 2022.07)```
 
 ## <h3 align="center">👋 Project 👋</h3>
-- DevThink/Side Project ```(2022)```
+- DevThink/Side Project BD Developer ```(2022)```
 
-- MoaMoa/Side Project ```(2022)```
+- MoaMoa/Side Project BD Developer ```(2022)```
 
-- BANGU/Side Project ```(2022)```
+- BANGU/Side Project BD Developer ```(2022)```
 
 ## 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw10693)](https://solved.ac/kmw10693/)<br/>
