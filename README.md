@@ -1,5 +1,5 @@
 [![Dev Blog Badge](http://img.shields.io/badge/Tistory-black?style=flat&logo=Blogger&logoColor=white)](https://kminu.tistory.com/)
-[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat&logo=Vimeo&logoColor=white)](https://kminu.tistory.com/)
+[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@kmw10693/)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Minu%20Kim&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
