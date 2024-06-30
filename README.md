@@ -14,25 +14,5 @@
 
 <br>
 
-## 🌱 Projects
-
-|                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
-| :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
-| [개발자들이 사용하는 성장형 커뮤니티 앱 - DevThink](https://github.com/kmw10693/DevThink_Server) | [1st MakeUS UMC](https://www.makeus.in/umc) |       Spring Boot      | 참여  | 2021 |
-|       [나만의 자산 관리 서비스 - 모아모아](https://github.com/kmw10693/backend)       |    [J2KB 코딩 연합 스터디](https://www.instagram.com/j2kb.official/)    |           Spring Boot            |  참여  | 2021 |
-|  [위치 기반 보물 찾기 서비스 - 트릴리](https://github.com/kmw10693/Umt_Server)  |           [UNITHON 8TH 해커톤](https://www.unit.center/unithon)           |      Spring Boot      | 참여  | 2021 |
-|             [집돌이를 위한 앱 - Homeenge](https://github.com/kmw10693/CMChackton)              |      11th MakeUS CMC 해커톤     |          Spring Boot         | 2위 | 2021 |
-|             [방구석 통합 OTT 검색 플랫폼 - BANGU](https://github.com/kmw10693/Bangu_Server)              |      -     |          Spring Boot         | - | 2022 |
-
-
-<br>
-
-## 🌱 Antecedents
-
-- 1st~3nd MakeUS UMC Server Part
-- Konkuk Univ. KUIT 3기 Server 파트장
-- J2KB 코딩 연합 스터디 6기 Server Part
-- UPF 2022SS 수료
-- 스파르타코딩클럽 1기 서포터즈
   
 
