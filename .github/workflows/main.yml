@@ -38,5 +38,7 @@ jobs:
       - name: Commit README
         run: |
           git add .
+          git config --local user.email "kmw106933@naver.com"
+          git config --local user.name "Minu Kim"
           git commit -m "Update README.md"
           git push origin +main
