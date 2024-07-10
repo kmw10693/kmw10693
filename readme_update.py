@@ -22,7 +22,11 @@ markdown_text = """
 
 # 최근 블로그 추가
 for i in feed['entries'][:4]:
-    markdown_text += f"<a href =\"{i['link']}\"> {i['title']} </a> <br>"
+
+    # date formation
+    date = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%Y.%m.%d")
+    
+    markdown_text += f"<a href =\"{i['link']}\"> [{date}] {i['title']} </a> <br>"
     # print(i['link'], i['title'])
 
 # print(markdown_text)
