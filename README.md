@@ -8,4 +8,4 @@
 
 ## 📕 Latest Blog Posts     
 
-<a href ="https://kminu.tistory.com/192"> 혼자 공부하는 컴퓨터구조 + 운영체제 2장 정리 </a> <br><a href ="https://kminu.tistory.com/191"> 혼자 공부하는 컴퓨터 구조+운영체제 1장 정리 </a> <br><a href ="https://kminu.tistory.com/190"> 단일 메시지 브로커 설계하기 - (2) / 마이크로 서비스의 프로세스 간 통신 정리 </a> <br><a href ="https://kminu.tistory.com/189"> 선언위치 변수종류(클래스 변수/인스턴스 변수) </a> <br>
+<a href ="https://kminu.tistory.com/194"> [2024.07.13] 혼자 공부하는 컴퓨터 구조+운영체제 4장 정리 </a> <br><a href ="https://kminu.tistory.com/193"> [2024.07.11] 혼자 공부하는 컴퓨터 구조+운영체제 3장 정리 </a> <br><a href ="https://kminu.tistory.com/192"> [2024.07.10] 혼자 공부하는 컴퓨터 구조+운영체제 2장 정리 </a> <br><a href ="https://kminu.tistory.com/191"> [2024.07.09] 혼자 공부하는 컴퓨터 구조+운영체제 1장 정리 </a> <br>
