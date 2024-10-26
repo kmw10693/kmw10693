@@ -8,4 +8,4 @@
 
 ## 📕 Latest Blog Posts     
 
-<a href ="https://kminu.tistory.com/207"> [2024.09.13] [AWS] CloudFront 에 대하여 </a> <br><a href ="https://kminu.tistory.com/206"> [2024.09.05] Webflux와 R2DBC </a> <br><a href ="https://kminu.tistory.com/205"> [2024.08.04] 혼자 공부하는 컴퓨터 구조+운영체제 15장 정리 </a> <br><a href ="https://kminu.tistory.com/204"> [2024.08.04] 혼자 공부하는 컴퓨터 구조+운영체제 14장 정리 </a> <br>
+<a href ="https://kminu.tistory.com/210"> [2024.10.26] MySQL로 배우는 데이터베이스 개론과 실습 2판 - 3장 문제 풀이 </a> <br><a href ="https://kminu.tistory.com/209"> [2024.10.26] MySQL로 배우는 데이터베이스 개론과 실습 2판 - 2장 문제 풀이 </a> <br><a href ="https://kminu.tistory.com/208"> [2024.10.26] MySQL로 배우는 데이터베이스 개론과 실습 2판 - 1장 문제 풀이 </a> <br><a href ="https://kminu.tistory.com/207"> [2024.09.13] [AWS] CloudFront 에 대하여 </a> <br>
