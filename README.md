@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Minu%20Kim&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 ## 🎓 Profile
-- Konkuk University Dept. of Computer Engineering (2021~)
+- Konkuk University Dept. of Computer Engineering (2021~)
 
 <br>
 
