@@ -26,6 +26,7 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version: '3.10'
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       # 라이브러리 추가작업
       - name: Install dependencies
         run: |
@@ -42,3 +43,4 @@ jobs:
           git config --local user.name "Minu Kim"
           git commit -m "Update README.md"
           git push origin +main
+            
