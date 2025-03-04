@@ -8,4 +8,4 @@
 
 ## 📕 Latest Blog Posts     
 
-<a href ="https://kminu.tistory.com/232"> [2025.02.19] Spring REST Docs와 Swagger-UI 결합하기 </a> <br><a href ="https://kminu.tistory.com/231"> [2025.02.19] 필터(Filter) vs 인터셉터(Interceptor)의 차이점 </a> <br><a href ="https://kminu.tistory.com/230"> [2025.02.18] 스프링 로깅 전략을 AOP에서 interceptor로 변경하기 </a> <br><a href ="https://kminu.tistory.com/229"> [2025.02.17] 시퀀스 다이어그램 기반, 클래스 다이어그램 작성해보기 </a> <br>
+<a href ="https://kminu.tistory.com/237"> [2025.03.04] 로그 파일 Grafana+Promtail+loki 이용해서 실시간 모니터링 적용하기 </a> <br><a href ="https://kminu.tistory.com/236"> [2025.02.27] N+1 문제 해결하기 (@EntityGraph 사용) </a> <br><a href ="https://kminu.tistory.com/235"> [2025.02.24] Jacoco를 이용한 테스트 커버리지 측정후, 보완하기 </a> <br><a href ="https://kminu.tistory.com/234"> [2025.02.24] 스프링 인터셉터(Spring Interceptor)로 API로그 DB에 저장하기 </a> <br>
