@@ -8,4 +8,4 @@
 
 ## 📕 Latest Blog Posts     
 
-<a href ="https://kminu.tistory.com/237"> [2025.03.04] 로그 파일 Grafana+Promtail+loki 이용해서 실시간 모니터링 적용하기 </a> <br><a href ="https://kminu.tistory.com/236"> [2025.02.27] N+1 문제 해결하기 (@EntityGraph 사용) </a> <br><a href ="https://kminu.tistory.com/235"> [2025.02.24] Jacoco를 이용한 테스트 커버리지 측정후, 보완하기 </a> <br><a href ="https://kminu.tistory.com/234"> [2025.02.24] 스프링 인터셉터(Spring Interceptor)로 API로그 DB에 저장하기 </a> <br>
+<a href ="https://kminu.tistory.com/238"> [2025.03.14] 메시지 큐 도입기 - 비동기 로깅 처리 및 알림 기능 (RabbitMQ, Kafka, Redis Pub/Sub 비교) </a> <br><a href ="https://kminu.tistory.com/237"> [2025.03.04] 로그 파일 Grafana+Promtail+loki 이용해서 실시간 모니터링 적용하기 </a> <br><a href ="https://kminu.tistory.com/236"> [2025.02.27] N+1 문제 해결하기 (@EntityGraph 사용) </a> <br><a href ="https://kminu.tistory.com/235"> [2025.02.24] Jacoco를 이용한 테스트 커버리지 측정후, 보완하기 </a> <br>
