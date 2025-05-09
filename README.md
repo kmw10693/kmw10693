@@ -8,4 +8,4 @@
 
 ## 📕 Latest Blog Posts     
 
-<a href ="https://kminu.tistory.com/240"> [2025.05.04] MySQL InnoDB의 Adaptive Hash Index </a> <br><a href ="https://kminu.tistory.com/239"> [2025.03.21] 헥사고날 아키텍처 적용기 </a> <br><a href ="https://kminu.tistory.com/238"> [2025.03.14] 메시지 큐 도입기 - 비동기 로깅 처리 및 알림 기능 (RabbitMQ, Kafka, Redis Pub/Sub 비교) </a> <br><a href ="https://kminu.tistory.com/237"> [2025.03.04] 로그 파일 Grafana+Promtail+loki 이용해서 실시간 모니터링 적용하기 </a> <br>
+<a href ="https://kminu.tistory.com/241"> [2025.05.08] [Real MySQL 8.0] 인덱스 살펴보기 </a> <br><a href ="https://kminu.tistory.com/240"> [2025.05.04] MySQL InnoDB의 Adaptive Hash Index </a> <br><a href ="https://kminu.tistory.com/239"> [2025.03.21] 헥사고날 아키텍처 적용기 </a> <br><a href ="https://kminu.tistory.com/238"> [2025.03.14] 메시지 큐 도입기 - 비동기 로깅 처리 및 알림 기능 (RabbitMQ, Kafka, Redis Pub/Sub 비교) </a> <br>
