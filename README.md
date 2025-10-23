@@ -1,11 +1,83 @@
+## Introduce
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Minu%20Kim&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+> 빠른 구현보다, 깊은 이해로 설계하는 개발자를 지향합니다.
+> 
+- 무작정 코드를 작성하기보다 **설계를 우선시하는 개발자**로 성장하고 있습니다.
+- **Kafka / RabbitMQ** 등 **메시지 큐 기반 대규모 시스템 설계**에 깊은 관심이 있습니다.
+- 화려한 기술보다 **기본기가 탄탄한 프로그래머**가 되는 것을 목표로 합니다.
 
-## 🎓 Profile
-- Konkuk University Dept. of Smart Ict Convergence (2021~)
 
-<br>
+## Projects
 
-## 📕 Latest Blog Posts     
+### 🌍 **Globber** — 도시 기반 여행 기록 플랫폼
 
-<a href ="https://kminu.tistory.com/241"> [2025.05.08] [Real MySQL 8.0] 인덱스 살펴보기 </a> <br><a href ="https://kminu.tistory.com/240"> [2025.05.04] MySQL InnoDB의 Adaptive Hash Index </a> <br><a href ="https://kminu.tistory.com/239"> [2025.03.21] 헥사고날 아키텍처 적용기 </a> <br><a href ="https://kminu.tistory.com/238"> [2025.03.14] 메시지 큐 도입기 - 비동기 로깅 처리 및 알림 기능 (RabbitMQ, Kafka, Redis Pub/Sub 비교) </a> <br>
+**2025.09 ~ 현재** | **백엔드 (3인)** | **[GitHub](https://github.com/depromeet/globber-server)**
+
+> 전 세계 도시별 여행 기록을 공유하고, 정확하고 빠른 검색 경험을 제공하는 플랫폼
+> 
+- **Redis WarmUp 자동화** → DB·Enum 기반 복구로 **재시작 시 자동 초기화 & 무결성 보장**
+- **테스트 환경 독립화** → Testcontainers/CI Test 파이프라인으로 **안정적 테스트 체계 구축**
+- **검색 성능 70% 개선 (p95: 420ms → 120ms)**
+    - pg_bigm + GIN 인덱스
+    - **레벤슈타인 거리 기반 유사도 정렬** + 인기도(popularity) 반영
+    - 동일 키워드 재검색 시 **DB 조회 0회 (100% 캐시 히트)**
+- **정렬 품질 향상** → 정확 일치 > 유사도 > 인기도 순 복합 정렬, 결과 최대 100개 제한
+
+---
+
+### 🏫 **쿠룸** — 건국대학교 재학생 위치 기반 플랫폼
+
+**2024.09 ~ 현재** | **백엔드 (2인)** | **[GitHub](https://github.com/KU-rum/backend)**
+
+> 캠퍼스 내 실시간 정보 공유를 지원하는 위치 기반 서비스
+> 
+- **테스트 품질 고도화** → Spring RestDocs + Jacoco로 **클래스당 커버리지 80% 유지**
+- **이미지 업로드 효율화** → Presigned URL + Lambda + SQS 비동기 리사이징으로 **서버 부하 60% 감소**
+- **로깅 신뢰성 확보** → AOP → Interceptor 전환으로 **요청 로깅 누락률 0% 달성**
+- **Spring AI 챗봇 구축** → 학사/장학/일정 정보 RAG 기반 의미 검색으로 **질의응답 자동화**
+
+---
+
+### 🧾 **건국대학교 학사정보시스템 리뉴얼** 
+
+**2025.06 ~ 2025.08** | **백엔드 (1인)** | **[GitHub](https://github.com/Konkuk-Univ-Student-Developer/KG_KUIS_SERVER)** | **[사이트](https://kuis-ng.konkuk.ac.kr/)**
+
+> 기존 학사정보시스템을 리뉴얼해 200명 이상 초기 사용자 확보 및 실제 운영
+> 
+- **Lambda 기반 크롤링 파이프라인** → AWS Lambda + S3 분산 처리로 **서버 부하 최소화**
+- **공지사항 속도 89% 개선 (398ms → 159ms)** → GIN 인덱스 + Redis 캐싱
+- **SQS 병렬 처리 도입** → 강의계획서 크롤링 **25분 → 10초**로 단축
+- **Spring AI 챗봇** → 학사/장학/일정 정보 RAG 기반 의미 검색 지원
+
+---
+
+### 🎟 **K-Interview** — 면접 예약 동시성 제어 서비스
+
+**2025.03 ~ 2025.06** | **백엔드 (1인)** | **[GitHub](https://github.com/kmw10693/K-Interview)**
+
+> 동시 예약/멀티 인스턴스 환경에서의 안정적인 분산 제어를 목표로 한 프로젝트
+> 
+- **Redisson Pub/Sub 분산 락** → 멀티 인스턴스에서도 **중복 예약 0건, 데드락 방지**
+- **RabbitMQ 비동기 메시징 시스템** → 메일·문자 전송 병목 제거, **응답 속도 대폭 개선**
+- **안정적 복구 구조 확보** → 큐 버퍼링으로 장애 시에도 **이벤트 손실 0건**
+
+---
+
+## 🎓 Education & Activities
+
+- **건국대학교 컴퓨터공학부 (GPA 4.25 / 4.5)** (2021.03 ~ 2027.02 예정)
+    - 2020 숭실대학교 ‘창의적 공학설계’ **최우수상 (팀장)**
+    - 스파르타 코딩클럽 1기 서포터즈 **대상**
+    - 2021/2024 Dean’s List (우등생 명단)
+    - J2KB 6기 ‘모아모아’팀 **은상**, 2025 DND Hackathon **2등 수상**
+- **KUIT** 건국대 IT 기획/개발 동아리 **4기 부회장 / 서버 파트장**
+- **Depromeet 17기 (서버)**
+- **건국대학교 정보운영팀 학생개발팀**
+- **GDGoc Konkuk Member**
+
+## 🧾 Certificates
+
+- **SQLD (SQL Developer)**
+- **네트워크관리사 2급 / 리눅스마스터 2급**
+- **AWS Solutions Architect – Associate**
+- **TOEIC Speaking IH (150점)**
