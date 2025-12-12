@@ -1,1 +1,1 @@
-I enjoy solving algorithm problems.
+I enjoy solving algorithm problems 💡
