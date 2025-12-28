@@ -7,7 +7,7 @@
 
 - Majored in Computer Science and Engineering at Konkuk University `(2021.03 - ing)`
 - Depromeet 17th Server `(25.08.02 ~ 25.11.25)`
-- Humanf Backend Developer Intern `(2025.12 - ing)`
+- gamdongap Backend Developer Intern `(2025.12 - ing)`
 
 <br/>
 
